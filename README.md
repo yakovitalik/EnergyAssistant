@@ -1,6 +1,6 @@
 # EnergyAssistant
 
-Программа выполняет расчет различных параметров в электрической сети. 
+This program makes calculations of the parameters of the electrical network. 
 ***********************************
 <img src=https://github.com/yakovitalik/EnergyAssistant/blob/main/demo1.gif>
 
